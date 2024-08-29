@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/prashantas143" target="blank"><img src="https://img.shields.io/twitter/follow/prashantas143?logo=twitter&style=for-the-badge" alt="prashantas143" /></a> </p>
 
-- 🌱 I’m currently learning   **html,Css,JavaScript,Django,Nodejs,Reactjs**
+- 🌱 I’m currently learning   **html,Css,JavaScript,Django,Nodejs**
 
 - 👯 I’m looking to collaborate on   **Early Stage/ Seed/ Series-A Funded Startups**
 
