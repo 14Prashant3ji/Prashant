@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/prashantas143" target="blank"><img src="https://img.shields.io/twitter/follow/prashantas143?logo=twitter&style=for-the-badge" alt="prashantas143" /></a> </p>
 
-- 🌱 I’m currently learning   **html,Css,JavaScript,Django,Nodejs**
+- 🌱 I’m currently learning   **html,Css,JavaScript,Django,Nodejs,MYSQL,Intermediate Java**
+- 🌱 My Working Platforms are **Visual Studio, IntelliJ, Eclipse, GitHUB, Sublime Text,My SQL**
 
-- 👯 I’m looking to collaborate on   **Early Stage/ Seed/ Series-A Funded Startups**
+- 👯 I’m looking for Job in    **Startups/MNCs, mid-level companies, and IT firms. **
 
 - 📫 How to reach me **Prashantas250@gmail.com**
 
